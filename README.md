@@ -53,7 +53,8 @@ chmod +x update_token.sh
 ## 🔹 Step 7 — RUN/START BOT 
 
 ```sh
-chmod +x update_token.sh
+python3 bot.py
 ```
+
 
 
