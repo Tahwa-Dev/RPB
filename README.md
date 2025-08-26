@@ -43,8 +43,17 @@ pip install aiogram==2.25.1
 ## 🔹 Step 5 — Install File Py Bot 
 
 ```sh
+git@github.com:Tahwa-Dev/RPB.git
 ```
+## 🔹 Step 6 — change API TOKEN BOT
 
+```sh
+chmod +x update_token.sh
+```
+## 🔹 Step 7 — RUN/START BOT 
 
+```sh
+chmod +x update_token.sh
+```
 
 
